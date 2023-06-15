@@ -16,7 +16,7 @@ La classe Chapeau : à était réaliser par nous deux individuellement puis nous
 
 La classe Triangle a été réalisée par TOM. Et puisque nous avions réussi à utiliser ArrayList et la méthode dessiner() dans la classe Chapeau. Il n'avait pas de problème à concevoir cette classe.
 
-La classe Quadrilatère a été réalisée par TOM. Tous comme pour l'autre classe Triangle, elle n'a pas posé de problème.
+La classe Quadrilatère a été réalisée par RONISTAN. Tous comme pour l'autre classe Triangle, elle n'a pas posé de problème.
 
 La classe Etoile a été réalisée par nous deux. Cependant, cette classe n'existait pas dans la phase 1 parce que nous pensions que les formes étoiles étaient composer de 4 chapeaux, donc nous pensions que cette forme fait partie de le classe chapeau. Puis quand il fallait déplacer les oiseaux dans la question 4 du phase 1, nous avons compris qu'il y avait une erreur avec la forme étoile. Donc nous avons créé cette classe Etoile.
 
