@@ -10,7 +10,7 @@ Nous avons réalisé cette SAE JAVA pour afficher une ardoise qui affiche des fo
 
 Il y a 6 classes : Chapeau, Triangle, Quadrilatère, Etoile, Maison et TestArdoise.
 
-TOM, c'est occuper pour importer ardoise.jar, mais quand en exécuter, il avait des problèmes : eclipse ne trouver pas les classes PointPlan ... . Puis RONISTAN a résolu ce problème d'importation.
+TOM, c'est occuper pour importer ardoise.jar, mais quand il avait exécuter, il avait des problèmes : eclipse ne trouver pas les classes PointPlan ... . Puis RONISTAN a résolu ce problème d'importation.
 
 La classe Chapeau : à était réaliser par nous deux individuellement puis nous avons mit en commun pour n'en faire qu'un. Au début, nous n'arrivions pas à utiliser ArrayList pour ajoute de nouvelle Segment, mais nous avons fait des recherches sur Internet + demander des exemples à l'intelligence artificielle. Et c'est ensuite que nous avons réussi.
 
